@@ -70,6 +70,16 @@ github.com/warjiang/page-spy-api v1.7.2-0.20250617101026-aaa1f27f0b97 h1:wQeWWQz
 github.com/warjiang/page-spy-api v1.7.2-0.20250617101026-aaa1f27f0b97/go.mod h1:y4WjFZxj1kkSWfS776S3sMs4k8bEGD/safBx6Obp+QU=
 github.com/warjiang/page-spy-api v1.7.2-0.20250617125539-87335a31f535 h1:r9ifG/m/3Lxg81ibcCCmwkZ574jQ5ECprV3k4+gVBL8=
 github.com/warjiang/page-spy-api v1.7.2-0.20250617125539-87335a31f535/go.mod h1:y4WjFZxj1kkSWfS776S3sMs4k8bEGD/safBx6Obp+QU=
+github.com/warjiang/page-spy-api v1.7.2-0.20250618061107-acba65e950ce h1:KfeYjv8ld6kLI+AKH50/Q4XU4l4hEGYgKdEWyMA5FqI=
+github.com/warjiang/page-spy-api v1.7.2-0.20250618061107-acba65e950ce/go.mod h1:y4WjFZxj1kkSWfS776S3sMs4k8bEGD/safBx6Obp+QU=
+github.com/warjiang/page-spy-api v1.7.2-0.20250618063124-b0263080624e h1:Kr/CTylMQRtsGZqY1otZZNdU1zBZio3MQQk1YTZ7mFw=
+github.com/warjiang/page-spy-api v1.7.2-0.20250618063124-b0263080624e/go.mod h1:y4WjFZxj1kkSWfS776S3sMs4k8bEGD/safBx6Obp+QU=
+github.com/warjiang/page-spy-api v1.7.2-0.20250618065125-6771d042db87 h1:tKyoD4uIRGIPT+DxdAUR1ZAxJ3PidByWe44cMHVTimc=
+github.com/warjiang/page-spy-api v1.7.2-0.20250618065125-6771d042db87/go.mod h1:y4WjFZxj1kkSWfS776S3sMs4k8bEGD/safBx6Obp+QU=
+github.com/warjiang/page-spy-api v1.7.2-0.20250618071226-3ba6197c95d9 h1:L0ehQR8rr+rJaXOQjN0fky0mvpE7I/SIpIV3ntyAnak=
+github.com/warjiang/page-spy-api v1.7.2-0.20250618071226-3ba6197c95d9/go.mod h1:y4WjFZxj1kkSWfS776S3sMs4k8bEGD/safBx6Obp+QU=
+github.com/warjiang/page-spy-api v1.7.2-0.20250618072745-a514b3adb18d h1:Y3hdn2+tTDZab13QihSXA6K2Vwr2mVMSQW5r0cNlpqg=
+github.com/warjiang/page-spy-api v1.7.2-0.20250618072745-a514b3adb18d/go.mod h1:y4WjFZxj1kkSWfS776S3sMs4k8bEGD/safBx6Obp+QU=
 go.uber.org/dig v1.15.0 h1:vq3YWr8zRj1eFGC7Gvf907hE0eRjPTZ1d3xHadD6liE=
 go.uber.org/dig v1.15.0/go.mod h1:pKHs0wMynzL6brANhB2hLMro+zalv1osARTviTcqHLM=
 golang.org/x/crypto v0.11.0 h1:6Ewdq3tDic1mg5xRO4milcWCfMVQhI4NkqWWvqejpuA=

@@ -2,7 +2,7 @@ module github.com/HuolalaTech/page-spy-web/backend
 
 go 1.21
 
-require github.com/warjiang/page-spy-api v1.7.2-0.20250617125539-87335a31f535
+require github.com/warjiang/page-spy-api v1.7.2-0.20250618072745-a514b3adb18d
 
 require (
 	filippo.io/edwards25519 v1.1.0 // indirect
