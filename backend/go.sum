@@ -82,6 +82,8 @@ github.com/warjiang/page-spy-api v1.7.2-0.20250618072745-a514b3adb18d h1:Y3hdn2+
 github.com/warjiang/page-spy-api v1.7.2-0.20250618072745-a514b3adb18d/go.mod h1:y4WjFZxj1kkSWfS776S3sMs4k8bEGD/safBx6Obp+QU=
 github.com/warjiang/page-spy-api v1.7.2-0.20250618092825-e09f88bcc58a h1:nEsYyGs4AANBun7MHoIusscGf2ehgdiU5WrrdTofw8c=
 github.com/warjiang/page-spy-api v1.7.2-0.20250618092825-e09f88bcc58a/go.mod h1:y4WjFZxj1kkSWfS776S3sMs4k8bEGD/safBx6Obp+QU=
+github.com/warjiang/page-spy-api v1.7.2-0.20250620065735-e58863e65fbc h1:Q6+DNHTKIm4IAaK3vnf/h++mjDMx3oKIRzf64kZjcKg=
+github.com/warjiang/page-spy-api v1.7.2-0.20250620065735-e58863e65fbc/go.mod h1:y4WjFZxj1kkSWfS776S3sMs4k8bEGD/safBx6Obp+QU=
 go.uber.org/dig v1.15.0 h1:vq3YWr8zRj1eFGC7Gvf907hE0eRjPTZ1d3xHadD6liE=
 go.uber.org/dig v1.15.0/go.mod h1:pKHs0wMynzL6brANhB2hLMro+zalv1osARTviTcqHLM=
 golang.org/x/crypto v0.11.0 h1:6Ewdq3tDic1mg5xRO4milcWCfMVQhI4NkqWWvqejpuA=
